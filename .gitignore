@@ -1,0 +1,11 @@
+*.log
+*.tmp
+*.swp
+*.zip
+*.tar.gz
+.env
+.env.*
+!.env.example
+coverage.out
+node_modules/
+dist/
